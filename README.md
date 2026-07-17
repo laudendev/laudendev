@@ -28,10 +28,9 @@ environment. I build software wherever a gap exists.
 
 ## Also
 
-- WoW addons — raid cooldown timeline overlays, profession trackers
 - Dual-camera Raspberry Pi 5 security system, MJPEG streaming in Go
 - 3D printing (FreeCAD, Prusa Core One+), mead brewing
-- Currently studying: x86-64 assembly and binary formats, Laravel
+- Currently studying: x86-64 assembly and binary formats
   
 ## Writing
 
