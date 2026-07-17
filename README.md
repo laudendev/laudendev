@@ -8,8 +8,7 @@ environment. I build software wherever a gap exists.
 - **Network & security** — FortiGate HA clusters, WireGuard VPN tunnels, Wazuh, intrusion response and forensics
 - **Identity** — OpenLDAP + SSSD centralized authentication across the
   server fleet, LDAPS with internal CA
-- **Telephony** — 3CX PBX administration, SIP trunking, call flow
-  design, custom recording/transcription pipelines
+- **Telephony** — 3CX PBX administration, SIP trunking, call flow design, inotify-driven call recording compression (~90% storage reduction), transcription/summarization pipeline
 - **Observability & recovery** — Zabbix monitoring with custom
   triggers, Nakivo backup infrastructure, RAID administration
 - **Platforms** — VMware ESXi, AWS, Ubuntu Server fleet, Jenkins CI/CD,
