@@ -34,8 +34,8 @@ environment. I build software wherever a gap exists.
   
 ## Writing
 
-Incident writeups and infrastructure notes at [lauden.dev](https://lauden.dev) —
-what broke, what the docs didn't say, what fixed it.
+Guides and notes at [lauden.dev](https://lauden.dev) — the documentation
+I went looking for and couldn't find, written down so the next person can.
 
 ---
 
