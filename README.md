@@ -5,8 +5,7 @@ environment. I build software wherever a gap exists.
 
 ## What I run
 
-- **Network & security** — FortiGate HA clusters, WireGuard mesh VPN,
-  VLAN segmentation, intrusion response and forensics
+- **Network & security** — FortiGate HA clusters, WireGuard VPN Tunnels, intrusion response and forensics
 - **Identity** — OpenLDAP + SSSD centralized authentication across the
   server fleet, LDAPS with internal CA
 - **Telephony** — 3CX PBX administration, SIP trunking, call flow
