@@ -16,8 +16,6 @@ environment. I build software wherever a gap exists.
 
 ## What I'm building
 
-- **Mysteries of Smoo** — multiplayer game in Go. Custom netcode,
-  server-authoritative world.
 - **Quartermaster** — offline-first software licensing in Go.
   Ed25519-signed licenses, no phone-home.
 - **Tamo** — LoRa mesh radio from scratch on ESP32 + RP2040. Speaks
