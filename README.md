@@ -15,7 +15,7 @@ environment. I build software wherever a gap exists.
   MySQL/PostgreSQL replication and query optimization
 
 ## What I'm building
-
+- **[shop.lauden.dev](https://shop.lauden.dev)** - Software that respects the customer.
 - **Quartermaster** — offline-first software licensing in Go.
   Ed25519-signed licenses, no phone-home.
 - **Tamo** — LoRa mesh radio from scratch on ESP32 + RP2040. Speaks
