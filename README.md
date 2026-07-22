@@ -26,8 +26,8 @@ environment. I build software wherever a gap exists.
 
 - Dual-camera Raspberry Pi 5 security system, MJPEG streaming in Go
 - Self-hosted Plex and Nextcloud, both in Docker, on a 4-node Raspberry Pi 4 cluster.
-- 3D printing (FreeCAD, Prusa Core One+), mead brewing
-- Currently studying: x86-64 assembly and binary formats
+- 3D printing (FreeCAD, Prusa Core One+).
+- Currently studying: x86-64 assembly and binary formats.
   
 ## Writing
 
