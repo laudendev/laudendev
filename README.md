@@ -16,7 +16,7 @@ environment. I build software wherever a gap exists.
 
 ## What I'm building
 - **[Personal Store](https://shop.lauden.dev)** — software that respects the customer.
-- **Quartermaster** — offline-first software licensing in Go.
+- **[Quartermaster](https://github.com/laudendev/quartermaster)** — offline-first software licensing in Go.
   Ed25519-signed licenses, no phone-home.
 - **Tamo** — LoRa mesh radio from scratch on ESP32 + RP2040. Speaks
   Meshtastic's BLE GATT protocol over a binary UART bridge.
