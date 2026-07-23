@@ -24,7 +24,7 @@ environment. I build software wherever a gap exists.
 
 ## Also
 
-- Dual-camera ([Telephoto](https://www.adafruit.com/product/4562) / [Wide Angle](https://www.adafruit.com/product/5658)) Raspberry Pi 5 security system, MJPEG streaming in Go
+- Dual-camera ([Telephoto](https://www.adafruit.com/product/4562) / [Wide Angle](https://www.adafruit.com/product/5658) ) Raspberry Pi 5 security system, MJPEG streaming in Go
 - Self-hosted Plex and Nextcloud, both in Docker, on a 4-node Raspberry Pi 4 cluster.
 - 3D printing (FreeCAD, Prusa Core One+). [Prusa Core One+ Kit](https://www.prusa3d.com/product/prusa-core-one-kit/)
 - Currently studying: x86-64 assembly and binary formats.
