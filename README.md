@@ -19,9 +19,9 @@ environment. I build software wherever a gap exists.
 - **[Quartermaster](https://github.com/laudendev/quartermaster)** — offline-first software licensing in Go.
   Ed25519-signed licenses, no phone-home.
 - **[Pop Focus](https://popfocus.lauden.dev)** — Ambient Meeting Reminders
+- ***The Traveler's Guide to Computing: Volume 1: The Forest*** (ISBN: 979-8-9984655-0-5) - a book releasing on 11/24/2026.
 - **Tamo** — LoRa mesh radio from scratch on ESP32 + RP2040. Speaks
   Meshtastic's BLE GATT protocol over a binary UART bridge.
-- ***The Traveler's Guide to Computing*** — a book releasing on 11/24/2026.
 
 ## Also
 
