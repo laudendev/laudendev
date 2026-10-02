@@ -21,7 +21,7 @@ environment. I build software wherever a gap exists.
 - **[Pop Focus](https://popfocus.lauden.dev)** — Ambient Meeting Reminders
 - **Tamo** — LoRa mesh radio from scratch on ESP32 + RP2040. Speaks
   Meshtastic's BLE GATT protocol over a binary UART bridge.
-- ***The Traveler's Guide to Computing*** — a book series.
+- ***The Traveler's Guide to Computing*** — a book series release 11/24/2026.
 
 ## Also
 
